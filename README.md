@@ -4,4 +4,4 @@ Ceci est un simple exemple d'utilisation de javascript, ici le but est juste de 
 
 Resultat:
 
-![alt text](screenshot.png)
+![alt text](screen_shot.png)
